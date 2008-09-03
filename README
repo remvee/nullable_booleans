@@ -1,0 +1,9 @@
+= NullableBooleans
+
+Allow a boolean AR attribute to be nullable using an empty string.
+This plugin is useful when you're trying to nullify a boolean using a
+form-select containing the values: 'true', 'false' and an empty
+string, the latter for null.
+
+
+Copyright (c) 2008 R.W. van 't Veer, released under the MIT license
